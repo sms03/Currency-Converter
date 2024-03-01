@@ -10,3 +10,8 @@ https://www.frankfurter.app/
 OR
 
 https://free.currencyconverterapi.com/
+
+
+## Libraries used
+
+ - [CurrencyConverter](https://pypi.org/project/CurrencyConverter/)
